@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="AndroidWatchFaceConfigurationType" factoryName="AndroidWatchFaceConfigurationFactory" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="Sleep_Taffy.wear" />
+    <option name="allowRunningInParallel" value="false" />
+    <option name="projectPathOnTarget" />
+    <option name="selectedOptions">
+      <list />
+    </option>
+    <LaunchOptions>
+      <option name="componentName" value="com.flyfish233.sleeptaffy.AtoriLegacy" />
+    </LaunchOptions>
+    <DeployOptions>
+      <option name="pmInstallFlags" value="" />
+    </DeployOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
